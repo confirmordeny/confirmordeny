@@ -11,6 +11,7 @@ I have also contributed to a number of repos including:
 # Personal repos
 My personal repos include:
 * [Problem passports](https://github.com/confirmordeny/problem-passports/tree/main)
+* [Sovereign wealth directory](https://github.com/confirmordeny/sovereignwealthdirectory)
 * [SupraVerden](https://github.com/confirmordeny/supraverden).
 
 # About me
