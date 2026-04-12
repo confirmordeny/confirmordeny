@@ -13,7 +13,7 @@ My personal repos include:
 * [Fist sector data sets](https://github.com/confirmordeny/first-sector-data-sets)
 * [Problem passports](https://github.com/confirmordeny/problem-passports/tree/main)
 * [Sovereign wealth directory](https://github.com/confirmordeny/sovereignwealthdirectory)
-* [SupraVerden](https://github.com/confirmordeny/supraverden).
+* [SupraVerden](https://github.com/confirmordeny/supraverden) - curated list of international organisations
 
 # About me
 I enjoy making lists and datasets available in the public interest. I am also interested in FOI.
